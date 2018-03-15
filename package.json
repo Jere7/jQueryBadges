@@ -9,7 +9,7 @@
     "test-watch": "npm test -- --bail --watch",
     "deploy:github-pages": "git subtree push --prefix src origin gh-pages"
   },
-  "author": "Sergio Cruz <sergio@codeschool.com>",
+  "author": "Jeremias Gatjens <7gatjen@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "babel-preset-es2015": "^6.18.0",
